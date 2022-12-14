@@ -25,7 +25,7 @@ Then invoke the class:
 `$db = new Database();`
 
 # install
-`composer install almhdy/php-mysql-class`
+`composer require almhdy/php-mysql-class`
 
 **For  complete documentation visit :**
 
