@@ -2,17 +2,25 @@
     "name": "almhdy/php-mysql-class",
     "description": "This lightweight database class is written with PHP and uses the MySQLi extension, it uses prepared statements to properly secure your queries, no need to worry about SQL injection attacks.",
     "type": "library",
+    "version": "1.0",
     "autoload": {
         "psr-4": {
             "Almhdy\\PhpMysqlClass\\": "src/"
         }
     },
+    "license":"proprietary",
     "authors": [
         {
             "name": "Elmahdi Abdallh",
             "email": "almhdybdallh24@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "repositories":[
+      {
+        "type":"vcs",
+        "url": "https://github.com/almhdy24/php-mysql-class"
+      }
+      ],
     "require": {}
 }
