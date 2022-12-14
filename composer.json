@@ -7,7 +7,7 @@
             "Almhdy\\PhpMysqlClass\\": "src/"
         }
     },
-    "license":"proprietary",
+    "license":"MIT",
     "authors": [
         {
             "name": "Elmahdi Abdallh",
